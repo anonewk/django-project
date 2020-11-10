@@ -1,0 +1,6 @@
+Django 
+
+Créer un nouveau projet : django-admin startproject nomduprojet
+
+manage.py -> 
+setting.py ->
